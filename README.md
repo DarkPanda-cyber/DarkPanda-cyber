@@ -1,5 +1,5 @@
 # Hello, I'm Hardik
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/hardikdagia"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a management graduate with a growing passion for cybersecurity, driven by hands-on projects and self-initiated learning.
 
@@ -8,16 +8,21 @@ I am a management graduate with a growing passion for cybersecurity, driven by h
 Eager to transition into cybersecurity, I aim to contribute to a Security Operations Center (SOC) as a Tier 1 Analyst, leveraging my foundational knowledge and recent certifications.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/DarkPanda-cyber/SOC-Automation-Lab"> SOC Automation Lab </a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/DarkPanda-cyber/SOC-Automation-Lab"> SOC Automation Lab </a>|
+| Case Management with TheHive                  | <a href="https://github.com/DarkPanda-cyber/SOC-Automation-Lab"> SOC Automation Lab </a>|
+| Scripting and Automation for Threat Mitigation| <a href="https://github.com/DarkPanda-cyber/SOC-Automation-Lab"> SOC Automation Lab </a>|
+| Active Directory Setup and Management         | <a href="https://github.com/DarkPanda-cyber/Active-Directory-Project"> Active Directory Project </a>|
+| Splunk Telemetry Ingestion and Analysis       | <a href="https://github.com/DarkPanda-cyber/Active-Directory-Project"> Active Directory Project </a>|
+| Atomic Red Team & Brute Force Simulation      | <a href="https://github.com/DarkPanda-cyber/Active-Directory-Project"> Active Directory Project </a>|
+| Web Server & DVWA Deployment                  | <a href="https://github.com/DarkPanda-cyber/Web-Application-Firewall-WAF-Lab"> WAF Security Lab </a>|
+| SafeLine WAF Configuration and Testing        | <a href="https://github.com/DarkPanda-cyber/Web-Application-Firewall-WAF-Lab"> WAF Security Lab </a>|
+| SSL Certificate and DNS Setup                 | <a href="https://github.com/DarkPanda-cyber/Web-Application-Firewall-WAF-Lab"> WAF Security Lab </a>|
+| SQL Injection & DoS Attack Simulation         | <a href="https://github.com/DarkPanda-cyber/Web-Application-Firewall-WAF-Lab"> WAF Security Lab </a>|
 
 ## Tools
 
@@ -66,7 +71,6 @@ Eager to transition into cybersecurity, I aim to contribute to a Security Operat
 </div>
 
 ## Projects
-- Detection Lab
 - SOC Automation Project
 - Active Directory Project
-- Web Application Firewall Project
+- Web Application Firewall (WAF) Security Lab
