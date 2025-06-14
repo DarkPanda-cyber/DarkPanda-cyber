@@ -1,14 +1,15 @@
 # Hello, I'm Hardik
-<a href="www.linkedin.com/in/hardikdagia"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hardikdagia" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-I am a management graduate with a growing passion for cybersecurity, driven by hands-on projects and self-initiated learning.
+I am a management graduate with a strong interest in cybersecurity, driven by hands-on labs and self-directed learning.
 
 ## Objective
 
-Eager to transition into cybersecurity, I aim to contribute to a Security Operations Center (SOC) as a Tier 1 Analyst, leveraging my foundational knowledge and recent certifications.
+Motivated to transition into the cybersecurity field, I’m seeking a Tier 1 SOC Analyst role where I can apply my foundational knowledge, practical experience, and recent certifications to support threat monitoring and incident response.
 
 ## Skills
-
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -22,7 +23,7 @@ Eager to transition into cybersecurity, I aim to contribute to a Security Operat
 | Web Server & DVWA Deployment                  | <a href="https://github.com/DarkPanda-cyber/Web-Application-Firewall-WAF-Lab"> WAF Security Lab </a>|
 | SafeLine WAF Configuration and Testing        | <a href="https://github.com/DarkPanda-cyber/Web-Application-Firewall-WAF-Lab"> WAF Security Lab </a>|
 | SSL Certificate and DNS Setup                 | <a href="https://github.com/DarkPanda-cyber/Web-Application-Firewall-WAF-Lab"> WAF Security Lab </a>|
-| SQL Injection & DoS Attack Simulation         | <a href="https://github.com/DarkPanda-cyber/Web-Application-Firewall-WAF-Lab"> WAF Security Lab </a>|
+| Common Web Attack Simulation                  | <a href="https://github.com/DarkPanda-cyber/Web-Application-Firewall-WAF-Lab"> WAF Security Lab </a>|
 
 ## Tools
 
@@ -46,6 +47,7 @@ Eager to transition into cybersecurity, I aim to contribute to a Security Operat
     <img src="https://img.shields.io/badge/-Wazuh-800080?style=for-the-badge&logo=wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-KQL-000000?style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
 ### Threat Intelligence
@@ -57,8 +59,9 @@ Eager to transition into cybersecurity, I aim to contribute to a Security Operat
     <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-DD4B39?style=for-the-badge&logo=mitre&logoColor=white" />
 </div>
 
-### Case Management
+### SOAR & Case Management
 <div>
+    <img src="https://img.shields.io/badge/-Shuffle-2E2E2E?style=for-the-badge&logo=elasticstack&logoColor=white" />
     <img src="https://img.shields.io/badge/-TheHive-FF8C00?style=for-the-badge&logoColor=white" />
 </div>
 
@@ -71,6 +74,14 @@ Eager to transition into cybersecurity, I aim to contribute to a Security Operat
 </div>
 
 ## Projects
-- SOC Automation Project
-- Active Directory Project
-- Web Application Firewall (WAF) Security Lab
+🔐 <a href="https://github.com/DarkPanda-cyber/SOC-Automation-Lab"> SOC Automation Lab </a><br>
+Designed an end-to-end security automation workflow integrating alert detection, case management, and incident response using tools like Shuffle and TheHive.
+
+🛡️ <a href="https://github.com/DarkPanda-cyber/Active-Directory-Project"> Active Directory Lab </a><br>
+Built an AD environment in Azure, connected a Windows endpoint, and monitored events using Sysmon and Splunk during simulated brute-force and Atomic Red Team attacks.
+
+🌐 <a href="https://github.com/DarkPanda-cyber/Web-Application-Firewall-WAF-Lab"> Web Application Firewall (WAF) Security Lab </a><br>
+Deployed DVWA behind SafeLine WAF, simulated common web attacks (SQLi, DoS), configured SSL & DNS, and analyzed logs to assess WAF effectiveness.
+
+📊 <a href="https://drive.google.com/file/d/1rI_p5_BffGBiaZSrr8B8BSBV6STtFj-X/view?usp=share_link"> Bachelor’s Thesis: AI in Stock Exchange Cybersecurity </a><br>
+Researched the application of AI-based cybersecurity across U.S. stock exchanges, focusing on threat detection, regulatory compliance, and case studies of past incidents.
