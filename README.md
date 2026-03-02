@@ -1,87 +1,99 @@
-# Hello, I'm Hardik
+# Hello, I'm Hardik  
 <a href="https://www.linkedin.com/in/hardikdagia" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-I am a management graduate with a strong interest in cybersecurity, driven by hands-on labs and self-directed learning.
+I am a QA Engineer (Entry Level) with hands-on experience in **Web, API, and Database Testing**, along with a strong foundation in cybersecurity through practical labs and projects.
+
+---
 
 ## Objective
 
-Motivated to transition into the cybersecurity field, I’m seeking a Tier 1 SOC Analyst role where I can apply my foundational knowledge, practical experience, and recent certifications to support threat monitoring and incident response.
+Detail-oriented QA Engineer seeking an entry-level role where I can apply my skills in **Manual testing, API testing, and SQL validation** to ensure high-quality software delivery.  
+I bring a strong analytical mindset, hands-on project experience, and a growing interest in **security-focused testing**.
 
-## Skills
+---
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/DarkPanda-cyber/SOC-Automation-Lab"> SOC Automation Lab </a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/DarkPanda-cyber/SOC-Automation-Lab"> SOC Automation Lab </a>|
-| Case Management with TheHive                  | <a href="https://github.com/DarkPanda-cyber/SOC-Automation-Lab"> SOC Automation Lab </a>|
-| Scripting and Automation for Threat Mitigation| <a href="https://github.com/DarkPanda-cyber/SOC-Automation-Lab"> SOC Automation Lab </a>|
-| Active Directory Setup and Management         | <a href="https://github.com/DarkPanda-cyber/Active-Directory-Project"> Active Directory Project </a>|
-| Splunk Telemetry Ingestion and Analysis       | <a href="https://github.com/DarkPanda-cyber/Active-Directory-Project"> Active Directory Project </a>|
-| Atomic Red Team & Brute Force Simulation      | <a href="https://github.com/DarkPanda-cyber/Active-Directory-Project"> Active Directory Project </a>|
-| Web Server & DVWA Deployment                  | <a href="https://github.com/DarkPanda-cyber/Web-Application-Firewall-WAF-Lab"> WAF Security Lab </a>|
-| SafeLine WAF Configuration and Testing        | <a href="https://github.com/DarkPanda-cyber/Web-Application-Firewall-WAF-Lab"> WAF Security Lab </a>|
-| SSL Certificate and DNS Setup                 | <a href="https://github.com/DarkPanda-cyber/Web-Application-Firewall-WAF-Lab"> WAF Security Lab </a>|
-| Common Web Attack Simulation                  | <a href="https://github.com/DarkPanda-cyber/Web-Application-Firewall-WAF-Lab"> WAF Security Lab </a>|
+## QA Skills
 
-## Tools
+| Skill                         | Associated Project |
+|------------------------------|------------------|
+| Test Planning & Documentation | <a href="https://github.com/DarkPanda-cyber/Ecommerce_Web_Testing_Project"> Web Testing Project |
+| Test Case Design & Execution |  <a href="https://github.com/DarkPanda-cyber/Ecommerce_Web_Testing_Project"> Web Testing Project |
+| Bug Reporting & Tracking |  <a href="https://github.com/DarkPanda-cyber/Ecommerce_Web_Testing_Project"> Web Testing Project |
+| API Testing (Postman) | <a href="https://github.com/DarkPanda-cyber/API_Testing_Project"> API Testing Project |
+| API Automation (Postman Scripts) | <a href="https://github.com/DarkPanda-cyber/API_Testing_Project"> API Testing Project |
+| SQL Data Validation | <a href="https://github.com/DarkPanda-cyber/SQL_Testing_Project">SQL Testing Project |
+| Data Integrity & Validation | <a href="https://github.com/DarkPanda-cyber/SQL_Testing_Project"> SQL Testing Project |
+| UI & Functional Testing | <a href="https://github.com/DarkPanda-cyber/Ecommerce_Web_Testing_Project"> Web Testing Project |
 
-### Network
+---
+
+## Tools & Technologies
+
+### QA & Testing
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div>
 
-### Endpoint & Log
+### Systems
 <div>
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sysmon-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Event%20Viewer-666666?style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Osquery-2683A7?style=for-the-badge&logo=osquery&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Wazuh-800080?style=for-the-badge&logo=wazuh&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-KQL-000000?style=for-the-badge&logo=microsoft&logoColor=white" />
-</div>
+---
 
-### Threat Intelligence
-<div>
-    <img src="https://img.shields.io/badge/-VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Abuse.ch-B22222?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cisco%20Talos-1D76DB?style=for-the-badge&logo=cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Urlscan.io-4B8BBE?style=for-the-badge&logo=internet-explorer&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-DD4B39?style=for-the-badge&logo=mitre&logoColor=white" />
-</div>
+## QA Projects
 
-### SOAR & Case Management
-<div>
-    <img src="https://img.shields.io/badge/-Shuffle-2E2E2E?style=for-the-badge&logo=elasticstack&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TheHive-FF8C00?style=for-the-badge&logoColor=white" />
-</div>
+🧪 <a href="https://github.com/DarkPanda-cyber/Ecommerce_Web_Testing_Project"> Web Testing Project </a>  
+Performed end-to-end testing of an E-commerce application including test planning, test cases, bug reporting, and test summary report.
+
+🔗 <a href="https://github.com/DarkPanda-cyber/API_Testing_Project"> API Testing Project </a>  
+Tested REST APIs using Postman, including functional, negative, and response validation with automated test scripts.
+
+🗄️ <a href="https://github.com/DarkPanda-cyber/SQL_Testing_Project"> SQL Testing Project </a>  
+Validated database integrity using SQL queries, identifying issues such as duplicate records, invalid references, and data inconsistencies.
+
+---
+
+## Cybersecurity Projects (Additional Experience)
+
+🔐 <a href="https://github.com/DarkPanda-cyber/SOC-Automation-Lab"> SOC Automation Lab </a>  
+Built an end-to-end security automation workflow integrating alert detection, case management, and incident response.
+
+🛡️ <a href="https://github.com/DarkPanda-cyber/Active-Directory-Project"> Active Directory Lab </a>  
+Simulated attacks and analyzed logs using Splunk and Sysmon to detect suspicious activities.
+
+🌐 <a href="https://github.com/DarkPanda-cyber/Web-Application-Firewall-WAF-Lab"> WAF Security Lab </a>  
+Tested web application security by simulating SQLi and DoS attacks.
+
+---
 
 ## Certifications
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-eJPT-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/-THM%20SOC%20Level%201-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </div>
 
-## Projects
-🔐 <a href="https://github.com/DarkPanda-cyber/SOC-Automation-Lab"> SOC Automation Lab </a><br>
-Designed an end-to-end security automation workflow integrating alert detection, case management, and incident response using tools like Shuffle and TheHive.
+---
 
-🛡️ <a href="https://github.com/DarkPanda-cyber/Active-Directory-Project"> Active Directory Lab </a><br>
-Built an AD environment in Azure, connected a Windows endpoint, and monitored events using Sysmon and Splunk during simulated brute-force and Atomic Red Team attacks.
+## Additional Work
 
-🌐 <a href="https://github.com/DarkPanda-cyber/Web-Application-Firewall-WAF-Lab"> Web Application Firewall (WAF) Security Lab </a><br>
-Deployed DVWA behind SafeLine WAF, simulated common web attacks (SQLi, DoS), configured SSL & DNS, and analyzed logs to assess WAF effectiveness.
+📊 <a href="https://drive.google.com/file/d/1rI_p5_BffGBiaZSrr8B8BSBV6STtFj-X/view?usp=share_link"> Bachelor’s Thesis: AI in Cybersecurity </a>  
+Researched AI-based cybersecurity approaches in stock exchange systems.
 
-📊 <a href="https://drive.google.com/file/d/1rI_p5_BffGBiaZSrr8B8BSBV6STtFj-X/view?usp=share_link"> Bachelor’s Thesis: AI in Stock Exchange Cybersecurity </a><br>
-Researched the application of AI-based cybersecurity across U.S. stock exchanges, focusing on threat detection, regulatory compliance, and case studies of past incidents.
+---
+
+## What I Bring
+
+- Strong attention to detail  
+- Structured testing approach  
+- Analytical thinking  
+- Ability to learn quickly  
+- Security-aware testing mindset
