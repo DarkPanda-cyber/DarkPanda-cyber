@@ -1,35 +1,67 @@
-# Hello, I'm Hardik  
+# 👋 Hi, I'm Hardik  
 <a href="https://www.linkedin.com/in/hardikdagia" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-I am a QA Engineer (Entry Level) with hands-on experience in **Web, API, and Database Testing**, along with a strong foundation in cybersecurity through practical labs and projects.
+I am an entry-level QA Engineer with hands-on experience in Manual Testing, API Testing, and SQL Validation.
+I enjoy understanding product behavior, identifying edge cases, and ensuring software quality through structured testing.
 
 ---
 
-## Objective
+## 🎯 Objective
 
-Detail-oriented QA Engineer seeking an entry-level role where I can apply my skills in **Manual testing, API testing, and SQL validation** to ensure high-quality software delivery.  
-I bring a strong analytical mindset, hands-on project experience, and a growing interest in **security-focused testing**.
-
----
-
-## QA Skills
-
-| Skill                         | Associated Project |
-|------------------------------|------------------|
-| Test Planning & Documentation | <a href="https://github.com/DarkPanda-cyber/Ecommerce_Web_Testing_Project"> Web Testing Project |
-| Test Case Design & Execution |  <a href="https://github.com/DarkPanda-cyber/Ecommerce_Web_Testing_Project"> Web Testing Project |
-| Bug Reporting & Tracking |  <a href="https://github.com/DarkPanda-cyber/Ecommerce_Web_Testing_Project"> Web Testing Project |
-| API Testing (Postman) | <a href="https://github.com/DarkPanda-cyber/API_Testing_Project"> API Testing Project |
-| API Automation (Postman Scripts) | <a href="https://github.com/DarkPanda-cyber/API_Testing_Project"> API Testing Project |
-| SQL Data Validation | <a href="https://github.com/DarkPanda-cyber/SQL_Testing_Project">SQL Testing Project |
-| Data Integrity & Validation | <a href="https://github.com/DarkPanda-cyber/SQL_Testing_Project"> SQL Testing Project |
-| UI & Functional Testing | <a href="https://github.com/DarkPanda-cyber/Ecommerce_Web_Testing_Project"> Web Testing Project |
+To start my career in QA where I can apply my skills in manual testing, API validation, and defect analysis while continuously improving my testing approach and learning automation.
 
 ---
 
-## Tools & Technologies
+## 🚀 Featured Projects
+
+🧪 <a href="https://github.com/DarkPanda-cyber/Parabank-QA-Testing"> Parabank QA Testing Project </a>  
+End-to-end testing of a banking application covering test planning, test cases, execution, bug reporting, and basic API testing.
+
+🛒 <a href="https://github.com/DarkPanda-cyber/Ecommerce_Web_Testing_Project"> Web Testing Project </a>  
+Tested an E-commerce application including user flows, validations, and defect reporting.
+
+🔗 <a href="https://github.com/DarkPanda-cyber/API_Testing_Project"> API Testing Project </a>  
+Performed API testing using Postman with functional, negative, and response validation.
+
+🗄️ <a href="https://github.com/DarkPanda-cyber/SQL_Testing_Project"> SQL Testing Project </a>  
+Validated backend data using SQL queries to identify data inconsistencies and integrity issues.
+
+---
+
+## 🧪 What I Do
+
+- Write and execute test cases for web applications  
+- Perform API testing using Postman  
+- Validate backend data using SQL  
+- Identify and report bugs with clear steps and impact  
+
+---
+
+## 🛠️ Skills
+
+- Manual Testing (Test Cases, Scenarios, Execution)  
+- Bug Reporting & Defect Analysis  
+- API Testing (Postman)  
+- SQL Data Validation  
+- Basic Understanding of Automation (Playwright – learning)
+
+---
+
+## 🔗 Skills Applied in Projects
+
+| Skill | Project |
+|------|--------|
+| Test Planning, Scenarios & Execution | <a href="https://github.com/DarkPanda-cyber/Parabank_Web_Testing_Project">Parabank QA Project</a> |
+| Bug Reporting & Defect Analysis | <a href="https://github.com/DarkPanda-cyber/Parabank_Web_Testing_Project">Parabank QA Project</a> |
+| UI & Functional Testing | <a href="https://github.com/DarkPanda-cyber/Ecommerce_Web_Testing_Project">Web Testing Project</a> |
+| API Testing (Postman) | <a href="https://github.com/DarkPanda-cyber/API_Testing_Project">API Testing Project</a> |
+| SQL Data Validation | <a href="https://github.com/DarkPanda-cyber/SQL_Testing_Project">SQL Testing Project</a> |
+
+---
+
+## 🧰 Tools & Technologies
 
 ### QA & Testing
 <div>
@@ -47,20 +79,15 @@ I bring a strong analytical mindset, hands-on project experience, and a growing 
 
 ---
 
-## QA Projects
+## 📈 Current Focus
 
-🧪 <a href="https://github.com/DarkPanda-cyber/Ecommerce_Web_Testing_Project"> Web Testing Project </a>  
-Performed end-to-end testing of an E-commerce application including test planning, test cases, bug reporting, and test summary report.
-
-🔗 <a href="https://github.com/DarkPanda-cyber/API_Testing_Project"> API Testing Project </a>  
-Tested REST APIs using Postman, including functional, negative, and response validation with automated test scripts.
-
-🗄️ <a href="https://github.com/DarkPanda-cyber/SQL_Testing_Project"> SQL Testing Project </a>  
-Validated database integrity using SQL queries, identifying issues such as duplicate records, invalid references, and data inconsistencies.
+- Strengthening QA fundamentals  
+- Learning automation testing (Playwright)  
+- Improving test design and real-world testing approach  
 
 ---
 
-## Certifications
+## 🏆 Certifications
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -70,16 +97,17 @@ Validated database integrity using SQL queries, identifying issues such as dupli
 
 ---
 
-## Additional Work
+## 📊 Additional Work
 
-📊 <a href="https://drive.google.com/file/d/1rI_p5_BffGBiaZSrr8B8BSBV6STtFj-X/view?usp=share_link"> Bachelor’s Thesis: AI in Cybersecurity </a>  
-Researched AI-based cybersecurity approaches in stock exchange systems.
+
+📄 <a href="https://drive.google.com/file/d/1rI_p5_BffGBiaZSrr8B8BSBV6STtFj-X/view?usp=share_link"> Bachelor’s Thesis: AI in Cybersecurity </a>  
+Research on AI-based cybersecurity approaches in stock exchange systems.
 
 ---
 
-## What I Bring
+## 🤝 What I Bring
 
 - Strong attention to detail  
 - Structured testing approach  
 - Analytical thinking  
-- Ability to learn quickly  
+- Ability to learn quickly
