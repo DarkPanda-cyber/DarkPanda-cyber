@@ -60,19 +60,6 @@ Validated database integrity using SQL queries, identifying issues such as dupli
 
 ---
 
-## Cybersecurity Projects (Additional Experience)
-
-🔐 <a href="https://github.com/DarkPanda-cyber/SOC-Automation-Lab"> SOC Automation Lab </a>  
-Built an end-to-end security automation workflow integrating alert detection, case management, and incident response.
-
-🛡️ <a href="https://github.com/DarkPanda-cyber/Active-Directory-Project"> Active Directory Lab </a>  
-Simulated attacks and analyzed logs using Splunk and Sysmon to detect suspicious activities.
-
-🌐 <a href="https://github.com/DarkPanda-cyber/Web-Application-Firewall-WAF-Lab"> WAF Security Lab </a>  
-Tested web application security by simulating SQLi and DoS attacks.
-
----
-
 ## Certifications
 
 <div>
@@ -96,4 +83,3 @@ Researched AI-based cybersecurity approaches in stock exchange systems.
 - Structured testing approach  
 - Analytical thinking  
 - Ability to learn quickly  
-- Security-aware testing mindset
