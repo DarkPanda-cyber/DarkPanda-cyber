@@ -16,7 +16,7 @@ To start my career in QA where I can apply my skills in manual testing, API vali
 
 ## 🚀 Featured Projects
 
-🧪 <a href="https://github.com/DarkPanda-cyber/Parabank-QA-Testing"> Parabank QA Testing Project </a>  
+🧪 <a href="https://github.com/DarkPanda-cyber/Parabank_Web_Testing_Project"> Parabank QA Testing Project </a>  
 End-to-end testing of a banking application covering test planning, test cases, execution, bug reporting, and basic API testing.
 
 🛒 <a href="https://github.com/DarkPanda-cyber/Ecommerce_Web_Testing_Project"> Web Testing Project </a>  
