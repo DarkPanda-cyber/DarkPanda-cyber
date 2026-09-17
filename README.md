@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-I am an entry-level QA Engineer with hands-on experience in Manual Testing, API Testing, and SQL Validation.
+Detail-oriented Entry-Level QA Tester with hands-on experience in Manual testing, API testing, and Playwright automation.
 I enjoy understanding product behavior, identifying edge cases, and ensuring software quality through structured testing.
 
 ---
@@ -19,8 +19,8 @@ To start my career in QA where I can apply my skills in manual testing, API vali
 🧪 <a href="https://github.com/DarkPanda-cyber/Parabank_Web_Testing_Project"> Parabank QA Testing Project </a>  
 End-to-end testing of a banking application covering test planning, test cases, execution, bug reporting, and basic API testing.
 
-🛒 <a href="https://github.com/DarkPanda-cyber/Ecommerce_Web_Testing_Project"> Web Testing Project </a>  
-Tested an E-commerce application including user flows, validations, and defect reporting.
+🛒 <a href="https://github.com/DarkPanda-cyber/Restful_Booker_Playwright_Automation"> Restful Booker Playwright Automation </a>  
+End-to-end UI automation testing framework for Restful Booker built with Playwright, JavaScript, and the Page Object Model (POM).
 
 🔗 <a href="https://github.com/DarkPanda-cyber/API_Testing_Project"> API Testing Project </a>  
 Performed API testing using Postman with functional, negative, and response validation.
@@ -32,20 +32,28 @@ Validated backend data using SQL queries to identify data inconsistencies and in
 
 ## 🧪 What I Do
 
-- Write and execute test cases for web applications  
-- Perform API testing using Postman  
-- Validate backend data using SQL  
-- Identify and report bugs with clear steps and impact  
+- Design and execute test cases for web applications
+- Perform manual, functional, regression, and exploratory testing
+- Test REST APIs using Postman and validate responses
+- Validate application data using SQL queries
+- Identify, document, and track defects with detailed bug reports
+- Build and maintain Playwright automation tests
+- Configure GitHub Actions for automated test execution and reporting
 
 ---
 
 ## 🛠️ Skills
 
-- Manual Testing (Test Cases, Scenarios, Execution)  
-- Bug Reporting & Defect Analysis  
-- API Testing (Postman)  
-- SQL Data Validation  
-- Basic Understanding of Automation (Playwright – learning)
+- Manual Testing (Test Cases, Test Scenarios, Execution)
+- Functional, Regression & Exploratory Testing
+- Bug Reporting & Defect Analysis
+- API Testing (Postman)
+- SQL Data Validation
+- Playwright Automation Testing
+- Git & GitHub
+- GitHub Actions (CI/CD)
+- Test Documentation & Reporting
+- SDLC & STLC Fundamentals
 
 ---
 
