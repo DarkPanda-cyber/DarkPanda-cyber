@@ -1,59 +1,34 @@
-# 👋 Hi, I'm Hardik  
-<a href="https://www.linkedin.com/in/hardikdagia" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-Detail-oriented Entry-Level QA Tester with hands-on experience in Manual testing, API testing, and Playwright automation.
-I enjoy understanding product behavior, identifying edge cases, and ensuring software quality through structured testing.
-
----
-
-## 🎯 Objective
-
-To start my career in QA where I can apply my skills in manual testing, API validation, and defect analysis while continuously improving my testing approach and learning automation.
+# 👋 Hi, I'm Hardik
+### Entry-Level QA Tester | Manual Testing • API Testing • Playwright Automation
+I'm a management graduate transitioning into software testing, with hands-on project experience in manual testing, API validation, SQL, and Playwright automation. I enjoy investigating application behaviour, identifying defects, and improving software quality through structured testing.
 
 ---
 
 ## 🚀 Featured Projects
 
-🧪 <a href="https://github.com/DarkPanda-cyber/Parabank_Web_Testing_Project"> Parabank QA Testing Project </a>  
-End-to-end testing of a banking application covering test planning, test cases, execution, bug reporting, and basic API testing.
+🧪 <a href="https://github.com/DarkPanda-cyber/Parabank_Web_Testing_Project"> Parabank QA Testing Project </a> - Test planning, test case execution, defect reporting, and API testing.
 
-🛒 <a href="https://github.com/DarkPanda-cyber/Restful_Booker_Playwright_Automation"> Restful Booker Playwright Automation </a>  
-End-to-end UI automation testing framework for Restful Booker built with Playwright, JavaScript, and the Page Object Model (POM).
+🛒 <a href="https://github.com/DarkPanda-cyber/Restful_Booker_Playwright_Automation"> Restful Booker Playwright Automation </a> - Playwright, JavaScript, and Page Object Model (POM).
 
-🔗 <a href="https://github.com/DarkPanda-cyber/API_Testing_Project"> API Testing Project </a>  
-Performed API testing using Postman with functional, negative, and response validation.
+🔄 <a href="https://github.com/DarkPanda-cyber/testdino-playwright-automation-project"> TestDino Automation </a> — Playwright automation with GitHub Actions CI.
 
-🗄️ <a href="https://github.com/DarkPanda-cyber/SQL_Testing_Project"> SQL Testing Project </a>  
-Validated backend data using SQL queries to identify data inconsistencies and integrity issues.
+🛒 <a href="https://github.com/DarkPanda-cyber/Sweetshop_Manual_Testing_Project"> Sweetshop Manual Testing </a> — Functional and responsive testing using mobile emulation.
 
----
+🔗 <a href="https://github.com/DarkPanda-cyber/API_Testing_Project"> API Testing Project </a> - Postman requests, negative scenarios, and response validation.
 
-## 🧪 What I Do
-
-- Design and execute test cases for web applications
-- Perform manual, functional, regression, and exploratory testing
-- Test REST APIs using Postman and validate responses
-- Validate application data using SQL queries
-- Identify, document, and track defects with detailed bug reports
-- Build and maintain Playwright automation tests
-- Configure GitHub Actions for automated test execution and reporting
+🗄️ <a href="https://github.com/DarkPanda-cyber/SQL_Testing_Project"> SQL Testing Project </a> - SQL queries for data validation and integrity checks.
 
 ---
 
-## 🛠️ Skills
+## 🧪 Core QA Skills
 
-- Manual Testing (Test Cases, Test Scenarios, Execution)
-- Functional, Regression & Exploratory Testing
-- Bug Reporting & Defect Analysis
-- API Testing (Postman)
-- SQL Data Validation
-- Playwright Automation Testing
-- Git & GitHub
-- GitHub Actions (CI/CD)
-- Test Documentation & Reporting
-- SDLC & STLC Fundamentals
+- Manual, Functional, Regression & Exploratory Testing
+- Test Case Design, Execution & Defect Reporting
+- API Testing with Postman
+- SQL Data Validation & MongoDB Fundamentals
+- Playwright Automation with JavaScript
+- Git, GitHub & GitHub Actions
+- SDLC / STLC Fundamentals
 
 ---
 
@@ -98,15 +73,7 @@ Validated backend data using SQL queries to identify data inconsistencies and in
 <div>
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</div>
-
----
-
-## 📈 Current Focus
-
-- Strengthening QA fundamentals  
-- Learning automation testing (Playwright)  
-- Improving test design and real-world testing approach  
+</div> 
 
 ---
 
@@ -128,9 +95,5 @@ Research on AI-based cybersecurity approaches in stock exchange systems.
 
 ---
 
-## 🤝 What I Bring
-
-- Strong attention to detail  
-- Structured testing approach  
-- Analytical thinking  
-- Ability to learn quickly
+## 🎯 Currently Learning
+Strengthening Playwright automation with TypeScript and expanding practical QA skills through hands-on projects.
