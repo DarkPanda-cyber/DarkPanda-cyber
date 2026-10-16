@@ -61,26 +61,40 @@ Validated backend data using SQL queries to identify data inconsistencies and in
 
 | Skill | Project |
 |------|--------|
-| Test Planning, Scenarios & Execution | <a href="https://github.com/DarkPanda-cyber/Parabank_Web_Testing_Project">Parabank QA Project</a> |
-| Bug Reporting & Defect Analysis | <a href="https://github.com/DarkPanda-cyber/Parabank_Web_Testing_Project">Parabank QA Project</a> |
-| UI & Functional Testing | <a href="https://github.com/DarkPanda-cyber/Ecommerce_Web_Testing_Project">Web Testing Project</a> |
-| API Testing (Postman) | <a href="https://github.com/DarkPanda-cyber/API_Testing_Project">API Testing Project</a> |
+| Test Planning, Test Cases & Defect Reporting | <a href="https://github.com/DarkPanda-cyber/Parabank_Web_Testing_Project">Parabank QA Project</a> |
+| Functional, UI & Responsive Testing | <a href="https://github.com/DarkPanda-cyber/Sweetshop_Manual_Testing_Project">Sweetshop Manual Testing</a> |
+| API Testing with Postman | <a href="https://github.com/DarkPanda-cyber/API_Testing_Project">API Testing Project</a> |
 | SQL Data Validation | <a href="https://github.com/DarkPanda-cyber/SQL_Testing_Project">SQL Testing Project</a> |
+| Playwright Automation with JavaScript | <a href="https://github.com/DarkPanda-cyber/Restful_Booker_Playwright_Automation">Restful Booker Automation</a> |
+| Playwright Automation & CI with GitHub Actions | <a href="https://github.com/DarkPanda-cyber/testdino-playwright-automation-project">TestDino Automation</a> |
 
 ---
 
 ## 🧰 Tools & Technologies
 
 ### QA & Testing
+
 <div>
+    <img src="https://img.shields.io/badge/-Manual%20Testing-2563EB?style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MongoDB%20Basics-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</div>
+
+### Automation & Version Control
+
+<div>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </div>
 
 ### Systems
+
 <div>
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
